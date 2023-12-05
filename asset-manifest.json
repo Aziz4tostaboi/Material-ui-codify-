@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Material-ui-codify-/static/css/main.4ff8e958.css",
+    "main.js": "/Material-ui-codify-/static/js/main.4830b4c1.js",
+    "index.html": "/Material-ui-codify-/index.html",
+    "main.4ff8e958.css.map": "/Material-ui-codify-/static/css/main.4ff8e958.css.map",
+    "main.4830b4c1.js.map": "/Material-ui-codify-/static/js/main.4830b4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff8e958.css",
+    "static/js/main.4830b4c1.js"
+  ]
+}
